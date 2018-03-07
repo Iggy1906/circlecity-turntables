@@ -1,0 +1,217 @@
+/* Body */
+body {
+  background-image: url(https://s5.postimg.org/cba2mm94n/napskyline.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  padding-top: 50px;
+}
+
+/*Top div and navbar*/
+#logo-nav {
+  width: 100%;
+  background: rgb(0, 0, 0);
+  margin: 0px;
+  clear: both;
+  z-index: 2;
+  border-bottom-width: 5px;
+  border-bottom-color: white;
+  border-bottom-style: solid;
+  position: fixed;
+  top: 0px;
+  padding: 10px;
+}
+
+#logo {
+  height: 50px;
+}
+
+.h-navbar {
+  margin-left: 70px;
+  padding: 10px;
+  position: fixed;
+}
+
+.h-navbar ul {
+  list-style: none;
+  position: relative;
+  display: inline-block;
+}
+
+.h-navbar ul li {
+  float: left;
+  margin-right: 40px;
+}
+
+.h-navbar ul a {
+  text-decoration: none;
+  color: rgb(3, 5, 206);
+  font-size: 20px;
+  font-weight: bold;
+  padding: 15px;
+}
+
+/* Text and Aricle */
+.text {
+  background-color: rgba(0, 0, 0, 0.7);
+  margin: 0px 10px 0px 10px;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  padding-top: 40px;
+}
+
+h2 {
+   color: white;
+  text-align: center;
+  margin: 0px 0px 0px 0px;
+  padding: 10px; 
+  
+}
+.article {
+  text-indent: 2em;
+  color: white;
+  margin: 0px 30px 0px 30px;
+  padding-bottom: 20px;
+}
+
+/* DJ Profiles */
+span {
+  color: white;
+}
+
+#profile-one {
+  background: rgb(128, 128, 128);
+  width: auto;
+  background: rgba(128, 128, 128, 0.90);
+  margin: 0px 10px 0px 10px;
+}
+
+#jackson-text {
+  margin-top: 50px;
+  color: black;
+  font-weight: bold;
+}
+
+#jackson-pic {
+  width: 400px;
+  height: 350px;
+  margin: 5px 0px 5px 0px;
+}
+
+#profile-two {
+  background: rgb(3, 5, 206);
+  width: auto;
+  background: rgba(3, 5, 206, 0.90);
+  margin: 0px 10px 0px 10px;
+}
+
+#love-text {
+  margin-top: 50px;
+  color: black;
+  font-weight: bold;
+}
+
+#love-pic {
+  width: 400px;
+  height: 350px;
+  margin: 5px 0px 5px 0px;
+}
+
+#profile-three {
+  background: rgb(128, 128, 128);
+  width: auto;
+  background: rgba(128, 128, 128, 0.90);
+  margin: 0px 10px 0px 10px;
+}
+
+#massey-text {
+  margin-top: 50px;
+  color: black;
+  font-weight: bold;
+}
+
+#massey-pic {
+  width: 400px;
+  height: 350px;
+  margin: 5px 0px 5px 0px;
+}
+
+#profile-four {
+  background: rgb(3, 5, 206);
+  width: auto;
+  background: rgba(3, 5, 206, 0.90);
+  margin: 0px 10px 0px 10px;
+}
+
+#miner-text {
+  margin-top: 50px;
+  color: black;
+  font-weight: bold;
+}
+
+#miner-pic {
+  width: 400px;
+  height: 350px;
+  margin: 5px 0px 5px 0px;
+}
+
+#profile-five {
+  background: rgb(128, 128, 128);
+  width: auto;
+  background: rgba(128, 128, 128, 0.90);
+  margin: 0px 10px 0px 10px;
+}
+
+#simmons-text {
+  margin-top: 50px;
+  color: black;
+  font-weight: bold;
+}
+
+#simmons-pic {
+  width: 400px;
+  height: 350px;
+  margin: 5px 0px 5px 0px;
+}
+
+.link-indianapolis {
+  color: ; 
+  text-decoration: underline;   
+}
+
+.link-indianapolis:hover {
+  color: #ce6903;
+}
+
+.link-grey {
+  color: #6903ce;
+  text-decoration: underline;
+}
+
+.link-grey:hover {
+   color: #ce6903;
+}
+
+.link-blue {
+  text-decoration: underline;
+}
+.link-blue:hover {
+  color: #ce6903;
+}
+
+/* footer */
+
+footer {
+  width: auto;
+  height: 50px;
+  background: black;
+  float: bottom;
+  margin: 0px 10px 0px 10px;
+}
+
+#copyright {
+  margin-top: 20px;
+}
